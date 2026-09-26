@@ -152,9 +152,9 @@ h2 {
 }
 
 h1 {
-  max-width: 750px;
-  margin: 0;
-  font-size: clamp(68px, 9vw, 100px);
+  font-size: clamp(42px, 13vw, 60px);
+  line-height: 0.98;
+  letter-spacing: -1px;
 }
 
 h2 {
