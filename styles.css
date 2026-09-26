@@ -176,15 +176,15 @@ h2 {
 }
 
 .button {
-  min-height: 55px;
-  padding: 0 26px;
+  min-height: 64px;
+  padding: 0 34px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
   border: 1px solid transparent;
   border-radius: 2px;
   font: inherit;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 800;
   cursor: pointer;
   transition: 0.2s ease;
