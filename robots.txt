@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tri-struni.ru/sitemap.xml
